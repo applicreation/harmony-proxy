@@ -3,7 +3,7 @@
 repository:
   name: harmony-proxy
   description: Harmony proxy
-  homepage: https://github.com/lickdltd/harmony-proxy
+  homepage: https://github.com/applicreation/harmony-proxy
   topics: harmony, proxy
   private: false
   has_issues: true
